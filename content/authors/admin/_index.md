@@ -18,9 +18,9 @@ bio: My research interests include Chromatin Engineering, Epigenetics and Cell R
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Epigenomics
+- Bioengineering
+
 
 # Education to show in About widget
 education:
