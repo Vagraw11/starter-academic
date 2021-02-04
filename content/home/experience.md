@@ -22,24 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Graduate Research Assistant
+    company: Backman Lab at Northwestern University
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Evanston
+    date_start: '2017-01-09'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Led a project on Biophysical Cell Reprogramming to understand the role of chromatin conformation in stem cell differentiation.
+        * Performed Image Analysis and Data Interepretation using MATLAB and Python.
+        * Mentored a team of undergraduate students as a part of NSF Research Experience and Mentoring Program.
+        * Teaching Assistant for Quantitative Experimentation and Design.
         
-  - title: Professor
-    company: University X
+  - title: Undergraduate Research Assitant
+    company: Medical Imaging Research Center at Illinois Institute of Technnology
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Chicago 
+    date_start: '2013-01-08'
+    date_end: '2015-01-06'
+    description: |2-
+        Responsibilities include:
+        
+        * Developed Mathematical Models to improve accuracy in lumpectomy margin assessment.
+        * Teaching Assitant for Image Analysis and Signal Processing on MATLAB.
 ---
