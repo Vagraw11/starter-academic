@@ -32,7 +32,7 @@ experience:
                 
         * Led a project on Biophysical Cell Reprogramming to understand the role of chromatin conformation in stem cell differentiation.
         * Performed Image Analysis and Data Interepretation using MATLAB and Python.
-        * Mentored a team of undergraduate students as a part of NSF Research Experience and Mentoring Program.
+        * Mentored teams of undergraduate students as a part of NSF Research Experience and Mentoring Program.
         * Teaching Assistant for Quantitative Experimentation and Design.
         
   - title: Undergraduate Research Assitant
