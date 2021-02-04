@@ -9,9 +9,9 @@ superuser: true
 role: PhD Candidate in Biomedical Engineering
 
 # Organizations/Affiliations to show in About widget
-organizations:
-- name: Northwestern University
-  url: https://biophotonics.bme.northwestern.edu/
+# organizations:
+# - name: Northwestern University
+#   url: https://biophotonics.bme.northwestern.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Chromatin Engineering, Epigenetics and Cell Reprogramming.
