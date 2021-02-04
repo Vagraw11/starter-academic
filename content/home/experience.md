@@ -26,11 +26,10 @@ experience:
     company: Backman Lab at Northwestern University
     company_url: ''
     location: Evanston
-    date_start: '2017-01-09'
+    date_start: '2017-09-09'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
+                
         * Led a project on Biophysical Cell Reprogramming to understand the role of chromatin conformation in stem cell differentiation.
         * Performed Image Analysis and Data Interepretation using MATLAB and Python.
         * Mentored a team of undergraduate students as a part of NSF Research Experience and Mentoring Program.
@@ -40,11 +39,10 @@ experience:
     company: Medical Imaging Research Center at Illinois Institute of Technnology
     company_url: ''
     location: Chicago 
-    date_start: '2013-01-08'
-    date_end: '2015-01-06'
+    date_start: '2013-08-08'
+    date_end: '2015-06-06'
     description: |2-
-        Responsibilities include:
-        
+                
         * Developed Mathematical Models to improve accuracy in lumpectomy margin assessment.
         * Teaching Assitant for Image Analysis and Signal Processing on MATLAB.
 ---
