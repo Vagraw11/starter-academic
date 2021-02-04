@@ -68,6 +68,6 @@ highlight_name: false
 ---
 
 Hello!
-I am a graduate student specializing in Imaging and Biophotonics. I specifically work on understanding the role of 3D chromatin architecture in stem cell differentiation and reprogramming. As a PhD student, I have been trained in Electron Microscopy (EM), designing and performing functional genomics experiments. An important part of my job is to run such experiments to test a given hypothesis, and analyze and interpret data using suitable visualization tools.
+I am a graduate student specializing in Imaging and Biophotonics. I specifically work on understanding the role of 3D chromatin architecture in stem cell differentiation and reprogramming. As a PhD student, I have been trained in imaging, specifically with Electron Microscopy (EM), and designing and performing functional genomics experiments. An important part of my job is to run such experiments to test a given hypothesis, and analyze and interpret data using suitable visualization tools.
 
-Outside the lab, I spend time reading non-fiction books, and enjoy abstract painting.
+Outside the lab, I spend my time reading non-fiction books, and enjoy abstract painting.
