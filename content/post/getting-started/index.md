@@ -40,7 +40,7 @@ categories:
 - Stem Cells
 ---
 
-## Struture affects Function
+##  
 
 Stem cells have the capability to differentiate into distinct cell types. The unique combination of molecular and structural modifications which constitute the epigenome alter the likelihood of expression of various genes leading to various distinct phenotypes. DNA methylation (which affect DNA directly) and histone modifications (which affect the DNA indirectly) are among the molecular modifications that modulate gene transcription. In addition to molecular modifications, the chromatin architecture is also an important predictor of transcriptional and phenotypic plasticity in stem cells.
 
