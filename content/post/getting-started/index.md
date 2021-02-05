@@ -36,9 +36,13 @@ tags:
 - Stem Cells
 
 categories:
-- Epigenomics
-- Stem Cells
+- Science
+
 ---
+
+## Overview 
+
+Stem Cells have the potential to differentiated into multiple cell types. As Conrad Waddington had suggested, a stem call can be thought of as a ball on top of the hill with high potential energy and as this ball rolls down the hill it attains stable minima. The opposite of this process is called reprogramming where in you go from this differentiated state to a stem cell state. Even though these cells are so different transcriptionally and phenotypically i.e they have different gene expression profiles and different function they share the same DNA sequence. Therefore, these functional differences may be linked with both molecular and structural changes in the genome that don’t change the underlying DNA sequence.
 
 ##  
 
