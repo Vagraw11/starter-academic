@@ -25,24 +25,24 @@ experience:
   - title: Graduate Research Assistant
     company: Backman Lab at Northwestern University
     company_url: ''
-    location: Evanston
+    location: Evanston, IL
     date_start: '2017-09-09'
     date_end: ''
     description: |2-
                 
-        * Led a project on Biophysical Cell Reprogramming to understand the role of chromatin conformation in stem cell differentiation.
+        * Led a project on biophysical cell reprogramming to understand the role of chromatin conformation in stem cell differentiation.
         * Performed Image Analysis and Data Interepretation using MATLAB and Python.
         * Mentored teams of undergraduate students as a part of NSF Research Experience and Mentoring Program.
         * Teaching Assistant for Quantitative Experimentation and Design.
         
-  - title: Undergraduate Research Assitant
+  - title: Undergraduate Research Assistant
     company: Medical Imaging Research Center at Illinois Institute of Technnology
     company_url: ''
-    location: Chicago 
+    location: Chicago, IL
     date_start: '2013-08-08'
     date_end: '2015-06-06'
     description: |2-
                 
-        * Developed Mathematical Models to improve accuracy in lumpectomy margin assessment.
+        * Developed Mathematical Models to improve accuracy in lumpectomy margin assessment protocols.
         * Teaching Assitant for Image Analysis and Signal Processing on MATLAB.
 ---
