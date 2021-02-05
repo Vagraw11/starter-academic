@@ -48,7 +48,7 @@ social:
   link: https://scholar.google.com/citations?user=Ucj8r6kAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/Vagraw11?tab=repositories
+  link: https://github.com/Vagraw11
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/vasundharaagrawal/
