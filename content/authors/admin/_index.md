@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Biomedical Engineering
     institution: Northwestern University
-    year: Expected 2022
+    year: 2022
   - course: BS in Biomedical Engineering
     institution: Illinois Institute of Technology
     year: 2017
@@ -70,5 +70,5 @@ highlight_name: false
 Hello!
 I am a graduate student specializing in Imaging and Biophotonics. I specifically work on understanding the role of 3D chromatin architecture in stem cell differentiation and reprogramming. As a PhD student, I have been trained in imaging, specifically with Electron Microscopy (EM), and designing and performing functional genomics experiments. An important part of my job is to run such experiments to test a given hypothesis and analyze and interpret data using suitable visualization tools.
 
-Outside the lab, I spend my time reading non-fiction books and enjoy abstract painting. Additionally, I like capturing the beauty of nature (with my Pixel 3a) as I am biking to work.
+Outside the lab, I spend my time reading non-fiction books and enjoy abstract painting. Additionally, I like capturing the beauty of nature (with my Google Pixel) as I am biking to work.
 
