@@ -39,8 +39,8 @@ experience:
     company: Medical Imaging Research Center at Illinois Institute of Technnology
     company_url: ''
     location: Chicago, IL
-    date_start: '2013-08-08'
-    date_end: '2015-06-06'
+    date_start: '2016-01-01'
+    date_end: '2017-01-01'
     description: |2-
                 
         * Developed Mathematical Models to improve accuracy in lumpectomy margin assessment protocols.
