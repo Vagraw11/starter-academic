@@ -19,7 +19,7 @@ draft: false
 featured: false
 
 # Featured image
-# Place an image named `im1.jpg/png` in this page's folder and customize its options here.
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 #image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
 #  focal_point: ""
@@ -62,11 +62,7 @@ The step involves checking your algorithm with a different set of inputs i.e. pl
 **Step 5: Translate to Code**
 We used the Python syntax to write the code for the algorithm highlighted in step 3 as shown below:
 
-# To play Tic-Tac-Toe, type `python3 ttt.py` in the command line (without the backquotes) and hit Enter.
-
 import sys
-
-# Tic-Tac-Toe 
 class ttt:
     def __init__(self):                                           # Constructor
         self.board = list();                                      # Initialize board array
@@ -119,7 +115,7 @@ class ttt:
             return True
         return False
     
-    def get_input(self):   #Get User Input
+    def get_input(self):  
         is_valid_choice = False
         while not is_valid_choice:
             try:
@@ -136,7 +132,6 @@ class ttt:
         pass
      
     # Method 3: Print_Board
-    # returns printed board
     def print_board(self):
         print("\n")
         print(self.character_map[self.board[0]], '|', self.character_map[self.board[1]], '|', self.character_map[self.board[2]])
@@ -148,7 +143,6 @@ class ttt:
         pass
     
     # Method 4: Check_Winner
-    # returns Winner
     def check_winner(self, player):
         if  (self.board[0] == self.board[1] == self.board[2] == player) or \
             (self.board[3] == self.board[4] == self.board[5] == player) or \
@@ -161,8 +155,8 @@ class ttt:
             return True
         return False
     pass
-
-if __name__ == "__main__":
+    
+    if __name__ == "__main__":
     game = ttt()
     game.play()
     pass
