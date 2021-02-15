@@ -1,5 +1,5 @@
 ---
-title: Solve any Programming Problem using the Seven-Step Methodology
+title: The Seven-Step Methodology for Problem Solving
 subtitle: Learning how to use the syntax for a given programming language is one thing and understanding the methodology for problem-solving is another. A programmer friend of mine recently acquainted me with an interesting seven-step approach to translate any problem into a working code to solve it. The seven-step methodology as discussed by Hilton et al. can be utilized to implement the simple yet classic game of tic-tac-toe.
 # Summary for listings and search engines
 summary: Learning how to use the syntax for a given programming language is one thing and understanding the methodology for problem-solving is another. A programmer friend of mine recently acquainted me with an interesting seven-step approach to translate any problem into a working code to solve it. The seven-step methodology as discussed by Hilton et al. can be utilized to implement the simple yet classic game of tic-tac-toe.
