@@ -30,7 +30,7 @@ authors:
 - admin
 
 tags:
-- Programming, Problem Solving
+- Problem Solving
 
 categories:
 - Intersection
@@ -62,6 +62,7 @@ The step involves checking your algorithm with a different set of inputs i.e. pl
 **Step 5: Translate to Code**
 We used the Python syntax to write the code for the algorithm highlighted in step 3 as shown below:
 
+```python
 import sys
 class ttt:
     def __init__(self):                                           # Constructor
@@ -156,10 +157,11 @@ class ttt:
         return False
     pass
     
-    if __name__ == "__main__":
-    game = ttt()
-    game.play()
-    pass
+if __name__ == "__main__":
+game = ttt()
+game.play()
+pass
+```
 
 **Step 6: Run Test Cases**
 Now we execute the program and check the answer, else we debug failed test case.
