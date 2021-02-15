@@ -53,7 +53,8 @@ Herein we try identifying repeating segments, conditions and generalize all the 
 1.	For simplicity, we can assign each position in the 3x3 grid (0 to 8) to a one-dimensional board.
 2.	This array can then be filled with ‘X’s or ‘O’s based on the user choice.
 3.	Each time user makes the choice the 1D board can be filled with the user marker (O or X) at the assigned position (a whole number between 0 and 8).
-4.	To check for the winner, we can generalize the winning positions from the indices of the grid, namely: {0,1,2}, {3, 4, 5},   {6, 7, 8},   {2, 5, 8},   {0, 3, 6},   {1, 4, 7},   {0, 4, 8}, and  {2, 4, 6}
+4.	To check for the winner, we can generalize the winning positions from the indices of the grid, namely: {0,1,2}, {3, 4, 5},   {6, 7, 8},   {2, 5, 8},   {0, 3, 6},   {1, 4, 7},   {0, 4, 8}, and  {2, 4, 6}.
+
 To summarize, the game starts with player 'O' selecting a position on the grid to place their mark on. The input should be between 0 and 8, inclusive. The 1D board will then be filled with the designated mark for the player, i.e. 'O' or 'X' at the given position. The next player (Player 'X') will then go through the same steps and then move to the player 'O' again and so on. Once all the 9 positions on the board are filled, the winner will be determined after checking the winning conditions. If none of the winning conditions are met, it will be declared a draw.
 
 **Step 4: Check By Hand**:
