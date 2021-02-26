@@ -20,7 +20,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
- [[main]]
-   name = "Resume"
-   url = "media/VASUNDHARA_AGRAWAL_Resume.pdf"
-   weight = 40
+# [[main]]
+#   name = "Resume"
+#   url = "media/VASUNDHARA_AGRAWAL_Resume.pdf"
+#   weight = 40
