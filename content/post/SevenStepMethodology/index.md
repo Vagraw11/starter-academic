@@ -33,7 +33,7 @@ tags:
 - Problem Solving
 
 categories:
-- Intersection
+- Problem Solving, Programming
 
 ---
 
