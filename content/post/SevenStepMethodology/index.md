@@ -31,9 +31,10 @@ authors:
 
 tags:
 - Problem Solving
+- Programming
 
 categories:
-- Problem Solving, Programming
+- Problem Solving
 
 ---
 
