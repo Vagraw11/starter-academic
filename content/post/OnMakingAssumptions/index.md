@@ -33,9 +33,10 @@ authors:
 
 tags:
 - Thoughts
+- Science
 
 categories:
-- Intersection
+- Hypothesis Testing
 
 ---
 
