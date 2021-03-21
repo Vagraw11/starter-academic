@@ -15,7 +15,7 @@ date: "2020-12-13T00:00:00Z"
 lastmod: "2020-10-05T00:00:00Z"
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -47,5 +47,5 @@ When I see a new kind of flower on the Northwestern campus, I think about how my
 
 What I have realized is that the creativity come from switching between different thoughts or themes. However, in order to develop these ideas further, deep work is required. Deep work comes when you don’t let the initial phases of boredome stop you.
 
-Just as I was reading a book near the lake, I noticed two little rabbits playing with each other. Although, I was looking at the rabbits, I was thinking about writing this piece. I was thinking about writing for a while now since I have realized that it needs a lot of improvement and the first step to improvement is to practice, make mistakes, and then get better over time. But, you know what, it is easier said than done. Nevertheless, I will keep going.
+Just as I was reading a book near the lake, I noticed two little rabbits playing with each other. Although, I was looking at the rabbits, I was thinking about writing this piece. I have been thinking about writing for a while now since I have realized that it needs a lot of improvement and the first step to improvement is to practice, make mistakes, and then get better over time. But, you know what, it is easier said than done. Nevertheless, I will keep going.
 
