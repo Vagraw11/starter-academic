@@ -18,15 +18,15 @@ lastmod: "2020-10-05T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: [**ProPharmaGroup**](https://www.propharmagroup.com/blog/innocent-until-proven-guilty-hypothesis-test/)'
   focal_point: ""
-  placement: 2
-  preview_only: false
+  placement: 3
+  preview_only: true
 
 authors:
 - admin
