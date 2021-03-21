@@ -1,9 +1,9 @@
 ---
 title: On Making Assumptions
-# subtitle: Stem Cells have the potential to differentiated into multiple cell types. As Conrad Waddington had suggested, a stem call can be thought of as a ball on top of the hill with high potential energy and as this ball rolls down the hill it attains stable minima. The opposite of this process is called reprogramming where in you go from this differentiated state to a stem cell state. Eventhough these cells are so different, both transcriptionally and phenotypically i.e they have different gene expression profiles and different function they share the same DNA sequence. Therefore, these functional differences may be linked with both molecular and structural changes in the genome that don’t change the underlying DNA sequence.
+subtitle: The idea of performing statistical tests to reject a null hypothesis made me think about the assumptions we make about the people in our lives and the subsequent decision we make to about their presence in our lives.
 
 # Summary for listings and search engines
-summary: The idea of performing statistical tests to reject a null hypothesis made me think about the assumptions we make about the people in our lives and the subsequent decision we make to about their presence in our lives.
+summary: ‘‘The presumption of innocence is the legal principle that one is considered innocent until proven guilty.’’ Being a part of the scientific research community, I am no stranger to the idea of making assumptions. 
 
 # Link this post with a project
 projects: []
@@ -18,7 +18,7 @@ lastmod: "2020-10-05T00:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: false
+featured: true
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
