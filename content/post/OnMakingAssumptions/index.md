@@ -23,10 +23,10 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-caption: 'Image credit: [**ProPharmaGroup**](https://www.propharmagroup.com/blog/innocent-until-proven-guilty-hypothesis-test/)'
-# focal_point: ""
-# placement: 2
-# preview_only: false
+  caption: 'Image credit: [**ProPharmaGroup**](https://www.propharmagroup.com/blog/innocent-until-proven-guilty-hypothesis-test/)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 authors:
 - admin
