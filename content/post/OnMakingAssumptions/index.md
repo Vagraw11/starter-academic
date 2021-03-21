@@ -3,7 +3,7 @@ title: On Making Assumptions
 # subtitle: Stem Cells have the potential to differentiated into multiple cell types. As Conrad Waddington had suggested, a stem call can be thought of as a ball on top of the hill with high potential energy and as this ball rolls down the hill it attains stable minima. The opposite of this process is called reprogramming where in you go from this differentiated state to a stem cell state. Eventhough these cells are so different, both transcriptionally and phenotypically i.e they have different gene expression profiles and different function they share the same DNA sequence. Therefore, these functional differences may be linked with both molecular and structural changes in the genome that don’t change the underlying DNA sequence.
 
 # Summary for listings and search engines
-# summary: Stem Cells have the potential to differentiated into multiple cell types. Eventhough stem cells and differentiated cells are so differen, both transcriptionally and phenotypically i.e they have different gene expression profiles and different functions, they share the same DNA sequence. Therefore, these functional differences may be linked with both molecular and structural changes in the genome that don’t change the underlying DNA sequence.
+summary: The idea of performing statistical tests to reject a null hypothesis made me think about the assumptions we make about the people in our lives and the subsequent decision we make to about their presence in our lives.
 
 # Link this post with a project
 projects: []
