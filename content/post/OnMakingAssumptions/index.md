@@ -26,7 +26,7 @@ image:
   caption: 'Image credit: [**ProPharmaGroup**](https://www.propharmagroup.com/blog/innocent-until-proven-guilty-hypothesis-test/)'
   focal_point: ""
   placement: 3
-  preview_only: true
+  preview_only: false
 
 authors:
 - admin
