@@ -22,11 +22,11 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-#image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-#  focal_point: ""
-#  placement: 2
-#  preview_only: false
+image:
+  caption: 'Image credit: [**The Art of Education**](https://theartofeducation.edu/2017/08/15/essential-framework-teaching-creativity/)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
 
 authors:
 - admin
@@ -45,7 +45,7 @@ As I was devouring a slice of the Lou, my favorite Deep Dish pizza during a holi
 
 When I see a new kind of flower on the Northwestern campus, I think about how my mom (whoe loves gardening) would react if she saw them. When I am in India at home, I think of my friends back in world #2 and get busy capturing all the ‘OMG, did that just happened’ moments that I think they might find hilarious. There are further smaller worlds within these 2 major worlds, for example, my work and my hobbies. When I am taking public transport to work, I think of the next experiment I should be doing. Or while making some abstract art, I think of how it looks similar to the images I took using the microscope. To calm this chaotic mind, I often find myself listening to Oprah’s podcats, Supersoul conversations where she keeps reiterating the idea of being ‘more fully present’. ‘’Easier said than done’’, I think to myself. I feel like I can never truly be fully present in one of these worlds that I think I belong to. It is easy to say that you should be completely focussed on the moment you are in. However, I have always found this way of thinking extremely one dimensional. None of the good ideas that I have ever had have emerged from the time when I was so focused on one task. They have instead been a byproduct of me zoning out on numerous occasions. Archimedes thought of buoyant forces while he was in a tub of water when he realized that the water that was displaced by him was proportional to his weight. Further, being more fully present gets even more difficult now, given the need for people to take innumerable pictures and post them on social media, thinking of the number of likes they want or what the title of the post should be instead of enjoying the moment. We have all been a victim of this crime. The crime of not being fully present.
 
-What I have realized is that the creativity come from switching between different thoughts or themes. However, in order to develop these ideas further, deep work is required. Deep work, as explained by Cal Newport in his book, comes when you don’t let the initial phases of boredome stop you.
+What I have realized is that the creativity come from switching between different thoughts or themes. However, in order to develop these ideas further, deep work is required. Deep work, as explained by Cal Newport in his book, comes when you don’t let the initial phases of boredome stop you. Deep work enables you to breathe life into your inspired designs and produce something of value.
 
 Just as I was reading a book near the lake, I noticed two little rabbits playing with each other. Although, I was looking at the rabbits, I was thinking about writing this piece. I have been thinking about writing for a while now since I have realized that it needs a lot of improvement and the first step to improvement is to practice, make mistakes, and then get better over time. But, you know what, it is easier said than done. Nevertheless, I will keep going.
 
