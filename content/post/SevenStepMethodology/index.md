@@ -7,10 +7,10 @@ summary: Learning how to use the syntax for a given programming language is one 
 projects: []
 
 # Date published
-date: "2020-12-13T00:00:00Z"
+date: "2020-12-07T00:00:00Z"
 
 # Date updated
-lastmod: "2020-10-05T00:00:00Z"
+lastmod: "2020-12-07T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
