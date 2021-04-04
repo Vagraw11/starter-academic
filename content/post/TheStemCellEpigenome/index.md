@@ -9,10 +9,10 @@ summary: Stem Cells have the potential to differentiate into multiple cell types
 projects: []
 
 # Date published
-date: "2021-02-07T00:00:00Z"
+date: "2021-01-05T00:00:00Z"
 
 # Date updated
-lastmod: "2021-02-07T00:00:00Z"
+lastmod: "2021-01-05T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
