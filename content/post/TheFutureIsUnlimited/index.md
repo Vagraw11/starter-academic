@@ -3,7 +3,7 @@ title: The Future is Unlimited
 subtitle: Learning how to shift towards an Abundance Mindset
 
 # Summary for listings and search engines
-summary: Stem Cells have the potential to differentiate into multiple cell types. Even though stem cells and differentiated cells are so different, both transcriptionally and phenotypically i.e they have different gene expression profiles and functions, they share the same genomic DNA sequence. Therefore, these functional differences may be linked with both molecular and structural changes in the genome that don’t change the underlying DNA sequence.
+summary: An abundance mindset is about thinking that there is a limitless universe of learning, ideas worth pursuing, and opportunities for growth throughout your lifetime. It encourages you to keep moving, knowing that if one opportunity doesn’t hit the mark, there are endless more in the offing.
 
 # Link this post with a project
 projects: []
@@ -32,11 +32,11 @@ authors:
 - admin
 
 tags:
-- Epigenomics
-- Stem Cells
+- Abundance Mindset
+- Opportunities
 
 categories:
-- Science
+- Intersection
 
 ---
 
