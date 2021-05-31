@@ -31,7 +31,7 @@ experience:
     description: |2-
                 
         * Led a project on biophysical cell reprogramming to understand the role of chromatin conformation in stem cell differentiation.
-        * Performed Image Analysis and Data Interepretation using MATLAB and Python.
+        * Performed Image Analysis and Data Interpretation using MATLAB and Python.
         * Mentored teams of undergraduate students as a part of NSF Research Experience and Mentoring Program.
         * Teaching Assistant for Quantitative Experimentation and Design.
         
