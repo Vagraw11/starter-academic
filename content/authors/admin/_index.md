@@ -51,7 +51,7 @@ social:
   link: https://github.com/Vagraw11
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/vasundharaagrawal/
+  link: https://www.linkedin.com/in/vasundhara-ag
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
