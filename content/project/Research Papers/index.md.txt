@@ -1,0 +1,14 @@
+---
+title: Evidence for possible association of vitamin D status with cytokine storm and unregulated inflammation in COVID-19 patients
+summary: An example of linking directly to an external project website using `external_link`.
+tags:
+- Demo
+date: "2020-09-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: https://link.springer.com/article/10.1007/s40520-020-01677-y
+
+image:
+  caption: Photo by Toa Heftiba on Unsplash
+  focal_point: Smart
+---
