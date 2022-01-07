@@ -42,7 +42,7 @@ social:
   link: "mailto:vas@u.northwestern.edu" 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Hi5_Vasundhara
+  link: https://twitter.com/hi5_vas
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Ucj8r6kAAAAJ&hl=en
