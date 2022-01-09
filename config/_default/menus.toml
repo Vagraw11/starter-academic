@@ -14,18 +14,23 @@
   weight = 20
 
 [[main]]
+  name = "Featured"
+  url = "#accomplishments"
+  weight = 30
+
+[[main]]
   name = "Posts"
   url = "#posts"
-  weight = 30
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
 [[main]]
   name = "Resume"
   url = "media/VASUNDHARA_AGRAWAL_Resume.pdf"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Art"
   url = "https://artiste-dilittante.mystrikingly.com/"
-  weight = 50
+  weight = 60
