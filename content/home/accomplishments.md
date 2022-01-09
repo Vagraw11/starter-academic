@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Featured Articles"
 subtitle = ""
 
 # Date format
@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   organization_url = "https://www.tgs.northwestern.edu/about/our-people/spotlight/vasundhara-agrawal.html"
   title = "TGS Spotlight Interview: Vasundhara Agrawal"
   url = ""
-  certificate_url = "https://www.tgs.northwestern.edu/about/our-people/spotlight/vasundhara-agrawal.html"
-  date_start = "2022-04-01"
+  certificate_url = ""
+  date_start = "2022-01-04"
   date_end = ""
   description = ""
 
