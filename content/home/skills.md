@@ -18,19 +18,19 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Hypothesis Testing"
-  description = "Mechanistic studies using genomics and imaging experiments."
+  description = "Mechanistic studies utilizing genomics and imaging experiments."
 
 [[feature]]
   icon = "chart-bar"
   icon_pack = "far"
   name = "Data Visualization"
-  description = "Research communication and meaningful representation of scientific data."
+  description = "Effective research communication through meaningful representation of scientific data."
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Image Processing"
-  description = "MATLAB and Python to process and analyze statistical descriptors of genome organization."
+  description = "MATLAB and Python to analyze statistical descriptors of genome organization."
 
 # Uncomment to use emoji icons.
 # [[feature]]
