@@ -1,27 +1,68 @@
-widget: featurette
-headless: true  # This file represents a page section.
++++
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear.
 
-# ... Put Your Section Options Here (title etc.) ...
+title = "Skills"
+subtitle = ""
 
 # Showcase personal skills or business features.
-# Add/remove as many `feature` blocks below as you like.
-# For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-  - icon: r-project
-    icon_pack: fab
-    name: R
-    description: 90%
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
-    description: 100%
-  - icon: camera-retro
-    icon_pack: fas
-    name: Photography
-    description: 10%
+#
+# Add/remove as many `[[feature]]` blocks below as you like.
+#
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
-  # Example using an emoji as an icon.
-  - icon: '😄'
-    icon_pack: emoji
-    name: Emojiness
-    description: 100%
+[[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Machine Learning"
+  description = "Supervised and unsupervised learning algorithms."
+
+[[feature]]
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Deep Learning"
+  description = "CNNs, RNNs, and GANs."
+
+[[feature]]
+  icon = "chart-bar"
+  icon_pack = "far"
+  name = "Data Visualization"
+  description = "Tableau, ggplot, matplotlib, and seaborn."
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Programming"
+  description = "Python, R, C, C++, and Java."
+
+[[feature]]
+  icon = "terminal"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "Command line, Git, LaTeX, and Markdown."
+
+[[feature]]
+  icon = "database"
+  icon_pack = "fas"
+  name = "Databases"
+  description = "SQL (strong) and NoSQL (intermediate)."
+
+# Uncomment to use emoji icons.
+# [[feature]]
+#  icon = ":smile:"
+#  icon_pack = "emoji"
+#  name = "Emojiness"
+#  description = "100%"  
+
+# Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# [[feature]]
+#  icon = "beach-sunset"
+#  icon_pack = "custom"
+#  name = "Surfing"
+#  description = "90%"
+
++++
