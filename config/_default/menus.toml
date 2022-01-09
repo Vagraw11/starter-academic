@@ -24,3 +24,8 @@
   name = "Resume"
   url = "media/VASUNDHARA_AGRAWAL_Resume.pdf"
   weight = 40
+
+[[main]]
+  name = "Art"
+  url = "https://artiste-dilittante.mystrikingly.com/"
+  weight = 50
