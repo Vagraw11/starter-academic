@@ -15,40 +15,22 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "Machine Learning"
-  description = "Supervised and unsupervised learning algorithms."
-
-[[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Deep Learning"
-  description = "CNNs, RNNs, and GANs."
+  name = "Hypothesis Testing"
+  description = "Data Visualization and Problem Solving"
 
 [[feature]]
   icon = "chart-bar"
   icon_pack = "far"
   name = "Data Visualization"
-  description = "Tableau, ggplot, matplotlib, and seaborn."
+  description = "Research Communication"
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Programming"
-  description = "Python, R, C, C++, and Java."
-
-[[feature]]
-  icon = "terminal"
-  icon_pack = "fas"
-  name = "Tools"
-  description = "Command line, Git, LaTeX, and Markdown."
-
-[[feature]]
-  icon = "database"
-  icon_pack = "fas"
-  name = "Databases"
-  description = "SQL (strong) and NoSQL (intermediate)."
+  name = "Image Processing"
+  description = "MATLAB and Python"
 
 # Uncomment to use emoji icons.
 # [[feature]]
