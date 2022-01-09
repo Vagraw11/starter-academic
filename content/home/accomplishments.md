@@ -27,5 +27,24 @@ date_format = "Jan 2006"
   date_start = "2022-01-04"
   date_end = ""
   description = ""
+  
+[[item]]
+  organization = "Department of Biomedical Engineering at Illinois Institute of Technology"
+  organization_url = "https://www.iit.edu/news/medline-pursues-patent-undergraduate-student-designed-medical-device"
+  title = "MEDLINE Pursues Patent For Undergraduate Student Designed NexGen Walker"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-06-27"
+  date_end = ""
+  description = ""
 
+[[item]]
+  organization = "Armour College of Engineering at Illinois Institute of Technology"
+  organization_url = "https://today.iit.edu/armour-college-of-engineering-announces-winners-of-2nd-annual-armour-rd-expo/"
+  title = "Winners of 2nd Annual Armour R&D Expo"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-04-12"
+  date_end = ""
+  description = ""
 +++
