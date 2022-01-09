@@ -18,7 +18,7 @@ subtitle = ""
   icon = "brain"
   icon_pack = "fas"
   name = "Hypothesis Testing"
-  description = "Data Visualization and Problem Solving"
+  description = "Problem Solving ussing genomics and imaging experiments"
 
 [[feature]]
   icon = "chart-bar"
