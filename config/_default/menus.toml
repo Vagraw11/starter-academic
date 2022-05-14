@@ -30,12 +30,12 @@
   url = "media/VASUNDHARA_AGRAWAL_Resume.pdf"
   weight = 50
 
-[[main]]
-  name = "Art"
-  url = "https://artiste-dilittante.mystrikingly.com/"
-  weight = 60
+# [[main]]
+#  name = "Art"
+#  url = "https://artiste-dilittante.mystrikingly.com/"
+#  weight = 60
   
-  [[main]]
-  name = "Bookshelf"
-  url = "https://docs.google.com/presentation/d/1ZstCUaV-E67_58orHs6QwhKFP3y3vbxXm8Udw4KENz4/edit?usp=sharing"
-  weight = 70
+ # [[main]]
+ # name = "Bookshelf"
+ # url = "https://docs.google.com/presentation/d/1ZstCUaV-E67_58orHs6QwhKFP3y3vbxXm8Udw4KENz4/edit?usp=sharing"
+ # weight = 70
