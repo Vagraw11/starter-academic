@@ -33,13 +33,13 @@ subtitle = ""
   description = "MATLAB and Python to analyze statistical descriptors of genome organization."
   
 [[feature]]
-  icon = "timer"
+  icon = "location-dot"
   icon_pack = "fas"
   name = "Time-Management"
   description = ""
   
 [[feature]]
-  icon = "people-group"
+  icon = "hand"
   icon_pack = "fas"
   name = "Teamwork"
   description = ""
