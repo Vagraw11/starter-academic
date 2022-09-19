@@ -18,17 +18,19 @@ bio: My research interests include Chromatin Engineering and Cell Reprogramming.
 
 # Interests to show in About widget
 interests:
+- Precision Health
 - Epigenomics
 - Bioengineering
+- Aging
 
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biomedical Engineering
+  - course: PhD in Biomedical Engineering (Imaging & Biophotonics)
     institution: Northwestern University
-    year: 2022
-  - course: BS in Biomedical Engineering
+    year: 2023
+  - course: BS in Biomedical Engineering (Cell & Tissue Engineering)
     institution: Illinois Institute of Technology
     year: 2017
 
@@ -68,7 +70,7 @@ highlight_name: false
 ---
 
 Hello!
-I am a graduate student specializing in Imaging and Biophotonics. I specifically work on understanding the role of 3D chromatin architecture in stem cell differentiation and reprogramming. As a PhD student, I have been trained in imaging, specifically with Electron Microscopy (EM), and designing and performing functional genomics experiments. An important part of my job is to run such experiments to test a given hypothesis and analyze and interpret data using suitable visualization tools.
+I am a graduate student specializing in Imaging and Biophotonics. I specifically work on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in imaging, specifically with Electron Microscopy (EM), and performing functional genomics experiments. An important part of my job is to creatively design experiments to test a given hypothesis and interpret data using suitable visualization tools.
 
 Outside the lab, I spend my time reading non-fiction books and enjoy abstract painting. Additionally, I like capturing the beauty of nature (with my Google Pixel) as I am biking to work.
 
