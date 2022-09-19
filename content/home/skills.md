@@ -23,13 +23,13 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "far"
-  name = "Data Visualization"
+  name = "Data Visualization & Research Communication"
   description = "Effective research communication through meaningful representation of scientific data."
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Image Processing"
+  name = "Image Processing & Analysis"
   description = "MATLAB and Python to analyze statistical descriptors of genome organization."
   
 [[feature]]
