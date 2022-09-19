@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
+  organization = "The New York Times"
+  organization_url = "https://www.nytimes.com/2020/06/10/well/live/coronavirus-vitamin-d-immunity.html"
+  title = "Exploring the Links Between Coronavirus and Vitamin D"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-06-04"
+  date_end = ""
+  description = ""
+ 
+[[item]]
   organization = "Department of Biomedical Engineering at Illinois Institute of Technology"
   organization_url = "https://www.iit.edu/news/medline-pursues-patent-undergraduate-student-designed-medical-device"
   title = "MEDLINE Pursues Patent For Undergraduate Student Designed NexGen Walker"
