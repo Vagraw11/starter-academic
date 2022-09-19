@@ -27,10 +27,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biomedical Engineering (Imaging & Biophotonics)
+  - course: PhD in Biomedical Engineering
     institution: Northwestern University
     year: 2023
-  - course: BS in Biomedical Engineering (Cell & Tissue Engineering)
+  - course: BS in Biomedical Engineering
     institution: Illinois Institute of Technology
     year: 2017
 
