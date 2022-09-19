@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Hypothesis Testing"
+  name = "Hypothesis Testing & Problem Solving"
   description = "Mechanistic studies utilizing genomics and imaging experiments."
 
 [[feature]]
@@ -31,6 +31,24 @@ subtitle = ""
   icon_pack = "fas"
   name = "Image Processing"
   description = "MATLAB and Python to analyze statistical descriptors of genome organization."
+  
+[[feature]]
+  icon = "timer"
+  icon_pack = "fas"
+  name = "Time-Management"
+  description = ""
+  
+[[feature]]
+  icon = "people-group"
+  icon_pack = "fas"
+  name = "Teamwork"
+  description = ""
+  
+[[feature]]
+  icon = "dna"
+  icon_pack = "fas"
+  name = "Adaptability"
+  description = ""
 
 # Uncomment to use emoji icons.
 # [[feature]]
