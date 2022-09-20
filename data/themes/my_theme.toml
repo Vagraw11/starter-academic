@@ -5,10 +5,10 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#AEC1FC"
+primary = "#98C2FC"
 
 # Menu
-menu_primary = "#AEC1FC"
+menu_primary = "#98C2FC"
 menu_text = "#ecfafc"
 menu_text_active = "#87ceeb"
 menu_title = "#fbfefe"
@@ -19,4 +19,4 @@ home_section_even = "rgb(247, 247, 247)"
 
 [dark]
   link = "#1b95a4"
-  link_hover = "#AEC1FC"
+  link_hover = "#98C2FC"
