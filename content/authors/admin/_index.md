@@ -6,7 +6,7 @@ title: Vasundhara Agrawal
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Biomedical Engineering
+role: PhD in Biomedical Engineering
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -20,9 +20,6 @@ bio: My research interests include Chromatin Engineering and Cell Reprogramming.
 interests:
 - Precision Health
 - Epigenomics
-- Bioengineering
-- Aging
-
 
 # Education to show in About widget
 education:
@@ -70,7 +67,7 @@ highlight_name: false
 ---
 
 Hello!
-I am a graduate student specializing in Imaging and Biophotonics. I specifically work on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in imaging, specifically with Electron Microscopy (EM), and performing functional genomics experiments. An important part of my job is to creatively design experiments to test a given hypothesis and interpret data using suitable visualization tools.
+I am a graduate student specializing in imaging and biophotonics. I specifically work on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in chromatin imaging and performing functional genomics experiments. An important part of my job is to creatively design experiments to test a given hypothesis and interpret data using suitable visualization tools.
 
 Outside the lab, I spend my time reading non-fiction books and enjoy abstract painting. Additionally, I like capturing the beauty of nature (with my Google Pixel) as I am biking to work.
 
