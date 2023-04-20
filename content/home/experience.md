@@ -27,7 +27,7 @@ experience:
     company_url: ''
     location: Evanston, IL
     date_start: '2017-09-09'
-    date_end: ''
+    date_end: '2023-06-05'
     description: |2-
                 
         * Led a project on biophysical cell reprogramming to understand the role of chromatin conformation in stem cell differentiation.
