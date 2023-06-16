@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "McCormick School of Engineering at Northwestern University"
+  organization_url = "https://www.tgs.northwestern.edu/about/our-people/spotlight/vasundhara-agrawal.html](https://www.mccormick.northwestern.edu/news/articles/2023/06/designing-surfaces-to-improve-bone-grafts/"
+  title = "Designing Surfaces to Improve Bone Grafts"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-06-06"
+  date_end = ""
+  description = ""
+  
 [[item]]
   organization = "The Graduate School at Northwestern University"
   organization_url = "https://www.tgs.northwestern.edu/about/our-people/spotlight/vasundhara-agrawal.html"
