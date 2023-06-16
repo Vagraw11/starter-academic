@@ -67,7 +67,6 @@ highlight_name: false
 ---
 
 Hello!
-I am a graduate student specializing in imaging and biophotonics. I specifically work on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in chromatin imaging and performing functional genomics experiments. An important part of my job is to creatively design experiments to test a given hypothesis and interpret data using suitable visualization tools.
+I recently finished my Ph.D. in Biomedical Engineering at Northwestern University. I specifically worked on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in chromatin imaging and performing functional genomics experiments. 
 
-Outside the lab, I spend my time reading non-fiction books and enjoy abstract painting. Additionally, I like capturing the beauty of nature (with my Google Pixel) as I am biking to work.
-
+Stay tuned for more updates!
