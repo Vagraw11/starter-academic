@@ -20,9 +20,8 @@ bio: My research interests include Chromatin Engineering and Cell Reprogramming.
 interests:
 - Precision Health
 - Epigenomics
-- Regenerative Engineering
-- Deep Learning for Microscopy Image Analysis
-- Cellular Plasticity in Reprogramming & Rejuvenation
+- DL for Microscopy Image Analysis
+- Cell Reprogramming & Rejuvenation
 
 # Education to show in About widget
 education:
@@ -30,6 +29,9 @@ education:
   - course: Ph.D. in Biomedical Engineering
     institution: Northwestern University
     year: 2023
+ - course: M.S. in Biomedical Engineering
+    institution: Northwestern University
+    year: 2020
   - course: B.S. in Biomedical Engineering
     institution: Illinois Institute of Technology
     year: 2017
@@ -67,4 +69,4 @@ highlight_name: false
 ---
 
 Hello!
-I recently finished my Ph.D. in Biomedical Engineering at Northwestern University. I specifically worked on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in high-resolution chromatin imaging, performing functional genomics experiments, and physics-based statistical analysis of 3D genome architecture. 
+I work at the intersection of mutliplexed whole-tissue imaging, AI-driven analysis and spatial statistics. As a recent graduate, I specifically worked on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in high-resolution chromatin imaging, performing functional genomics experiments, and physics-based statistical analysis of 3D genome architecture. 
