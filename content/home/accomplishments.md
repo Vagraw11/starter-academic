@@ -38,6 +38,16 @@ date_format = "Jan 2006"
   date_start = "2023-06-12"
   date_end = ""
   description = ""
+
+  [[item]]
+  organization = "Doctoral Dissertation"
+  organization_url = "https://arch.library.northwestern.edu/concern/generic_works/td96k2984"
+  title = "Unraveling Higher-Order Chromatin Architecture and its Role in Cell Engineering for Improved Regenerative Outcomes"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-05-12"
+  date_end = ""
+  description = ""
   
 [[item]]
   organization = "The Graduate School at Northwestern University"
