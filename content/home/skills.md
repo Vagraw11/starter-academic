@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "H Testing & Problem Solving"
+  name = "HH Testing & Problem Solving"
   description = "Mechanistic studies utilizing genomics and imaging experiments."
 
 [[feature]]
