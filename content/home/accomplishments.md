@@ -20,12 +20,22 @@ date_format = "Jan 2006"
 
 
 [[item]]
-  organization = "McCormick School of Engineering at Northwestern University"
-  organization_url = "https://www.mccormick.northwestern.edu/news/articles/2023/06/designing-surfaces-to-improve-bone-grafts/"
+  organization = "Northwestern University | Feinberg School of Medicine"
+  organization_url = "https://news.feinberg.northwestern.edu/2023/06/30/designing-surfaces-to-improve-bone-grafts/"
   title = "Designing Surfaces to Improve Bone Grafts"
   url = ""
   certificate_url = ""
   date_start = "2023-12-06"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Nature Biomedical Engineering"
+  organization_url = "https://communities.springernature.com/posts/chromatin-engineering-as-a-tool-to-enhance-bone-regeneration"
+  title = "Chromatin Engineering as a Tool to Enhance Bone Regeneration"
+  url = ""
+  certificate_url = ""
+  date_start = "2023-12-12"
   date_end = ""
   description = ""
   
