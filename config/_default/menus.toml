@@ -30,10 +30,10 @@
 # url = "media/V_Agrawal_CV_2023.pdf"
 # weight = 50
 
-#[[main]]
-#  name = "Art"
-#  url = "https://artiste-dilittante.mystrikingly.com/"
-# weight = 50
+[[main]]
+  name = "Art"
+  url = "https://artiste-dilittante.mystrikingly.com/"
+  weight = 50
   
 #[[main]]
 # name = "Bookshelf"
