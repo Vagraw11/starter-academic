@@ -67,6 +67,4 @@ highlight_name: false
 ---
 
 Hello!
-I recently finished my Ph.D. in Biomedical Engineering at Northwestern University. I specifically worked on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in chromatin imaging and performing functional genomics experiments. 
-
-Stay tuned for more updates!
+I recently finished my Ph.D. in Biomedical Engineering at Northwestern University. I specifically worked on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in high-resolution chromatin imaging, performing functional genomics experiments, and physics-based statistical analysis of 3D genome architecture. 
