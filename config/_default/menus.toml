@@ -30,12 +30,12 @@
 # url = "media/V_Agrawal_CV_2023.pdf"
 # weight = 50
 
-[[main]]
-  name = "Art"
-  url = "https://artiste-dilittante.mystrikingly.com/"
-  weight = 50
+#[[main]]
+#  name = "Art"
+#  url = "https://artiste-dilittante.mystrikingly.com/"
+# weight = 50
   
-[[main]]
-  name = "Bookshelf"
-  url = "https://docs.google.com/presentation/d/1ZstCUaV-E67_58orHs6QwhKFP3y3vbxXm8Udw4KENz4/edit?usp=sharing"
-  weight = 60
+#[[main]]
+# name = "Bookshelf"
+#  url = "https://docs.google.com/presentation/d/1ZstCUaV-E67_58orHs6QwhKFP3y3vbxXm8Udw4KENz4/edit?usp=sharing"
+# weight = 60
