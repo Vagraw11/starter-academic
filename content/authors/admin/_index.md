@@ -6,7 +6,7 @@ title: Vasundhara Agrawal
 superuser: true
 
 # Role/position/tagline
-role: PhD in Biomedical Engineering
+role: Ph.D. in Biomedical Engineering
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -20,14 +20,17 @@ bio: My research interests include Chromatin Engineering and Cell Reprogramming.
 interests:
 - Precision Health
 - Epigenomics
+- Regenerative Engineering
+- Deep Learning for Microscopy Image Analysis
+- Cellular Plasticity in Reprogramming & Rejuvenation
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Biomedical Engineering
+  - course: Ph.D. in Biomedical Engineering
     institution: Northwestern University
     year: 2023
-  - course: BS in Biomedical Engineering
+  - course: B.S. in Biomedical Engineering
     institution: Illinois Institute of Technology
     year: 2017
 
@@ -45,9 +48,6 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=Ucj8r6kAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Vagraw11
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/vasundhara-ag
