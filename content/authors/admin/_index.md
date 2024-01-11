@@ -6,7 +6,7 @@ title: Vasundhara Agrawal
 superuser: true
 
 # Role/position/tagline
-role: Applications Manager - Spatial Biology Image Analysis
+role: Let's connect
 
 # Organizations/Affiliations to show in About widget
 # organizations:
