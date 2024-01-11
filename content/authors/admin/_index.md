@@ -7,7 +7,6 @@ superuser: true
 
 # Role/position/tagline
 role: Ph.D. in Biomedical Engineering
-App
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -30,9 +29,7 @@ education:
   - course: Ph.D. in Biomedical Engineering
     institution: Northwestern University
     year: 2023
- -  course: M.S. in Biomedical Engineering
-    institution: Northwestern University
-    year: 2020
+
   - course: B.S. in Biomedical Engineering
     institution: Illinois Institute of Technology
     year: 2017
