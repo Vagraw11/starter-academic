@@ -7,6 +7,7 @@ superuser: true
 
 # Role/position/tagline
 role: Ph.D. in Biomedical Engineering
+App
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -69,4 +70,4 @@ highlight_name: false
 ---
 
 Hello!
-I work at the intersection of mutliplexed whole-tissue imaging, AI-driven analysis and spatial statistics. As a recent graduate, I specifically worked on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in high-resolution chromatin imaging, performing functional genomics experiments, and physics-based statistical analysis of 3D genome architecture. 
+I work at the intersection of mutliplexed whole-tissue imaging, AI-driven image analysis and spatial statistics. As a recent graduate, I specifically worked on understanding the role of 3D genome architecture in stem cells to enhance regenerative outcomes. As a researcher, I have been trained in high-resolution chromatin imaging, performing functional genomics experiments, and physics-based statistical analysis of 3D genome architecture. 
