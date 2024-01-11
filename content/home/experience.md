@@ -43,8 +43,8 @@ experience:
                 
         * Led a project on biophysical cell engineering to understand the role of 3D genome conformation in stem cell differentiation, reprogramming, and transdifferentiation. 
         
-  - title: Undergraduate Research Assistant
-    company: Medical Imaging Research Center at Illinois Institute of Technnology
+  - title: Research Assistant
+    company: Medical Imaging Research Center, Illinois Institute of Technnology
     company_url: ''
     location: Chicago, IL
     date_start: '2016-01-01'
