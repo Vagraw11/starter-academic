@@ -6,7 +6,7 @@ title: Vasundhara Agrawal
 superuser: true
 
 # Role/position/tagline
-role: Let's connect
+role:  
 
 # Organizations/Affiliations to show in About widget
 # organizations:
