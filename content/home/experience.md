@@ -41,7 +41,7 @@ experience:
     date_end: '2023-06-05'
     description: |2-
                 
-        * Led a project on biophysical cell reprogramming to understand the role of chromatin conformation in stem cell differentiation. 
+        * Led a project on biophysical cell engineering to understand the role of 3D genome conformation in stem cell differentiation, reprogramming, and transdifferentiation. 
         
   - title: Undergraduate Research Assistant
     company: Medical Imaging Research Center at Illinois Institute of Technnology
@@ -51,5 +51,5 @@ experience:
     date_end: '2017-01-01'
     description: |2-
                 
-        * Developed Mathematical Models to improve accuracy in lumpectomy margin assessment protocols.
+        * Devised mathematical models to improve accuracy in lumpectomy margin assessment protocols in breast cancer.
 ---
