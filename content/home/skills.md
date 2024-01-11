@@ -17,7 +17,7 @@ subtitle = ""
 [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "HH Testing & Problem Solving"
+  name = "Hypothesis Testing & Problem Solving"
   description = "Mechanistic studies utilizing genomics and imaging experiments."
 
 [[feature]]
@@ -41,13 +41,13 @@ subtitle = ""
 [[feature]]
   icon = "users"
   icon_pack = "fas"
-  name = "Teamwork"
+  name = "Hehe"
   description = ""
   
 [[feature]]
   icon = "dna"
   icon_pack = "fas"
-  name = "Adaptability"
+  name = "Got no skills bruh"
   description = ""
 
 # Uncomment to use emoji icons.
