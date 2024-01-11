@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Applications Manager, Spatial Biology Image Analysis
+    company: Leica Microsystems
+    company_url: ''
+    location: Waltham, MA
+    date_start: '2023-07-04'
+    date_end: ''
+    description: |2-
+                
+        * xx
+    
   - title: Graduate Research Assistant
     company: Backman Lab at Northwestern University
     company_url: ''
