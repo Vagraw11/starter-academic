@@ -5,7 +5,7 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#57baab"
+primary = "#67c4cf"
 
 # Menu
 menu_primary = "#87b2ed"
@@ -18,5 +18,5 @@ home_section_odd = "rgb(255, 255, 255)"
 home_section_even = "rgb(247, 247, 247)"
 
 [dark]
-  link = "#57baab"
-  link_hover = "#98C2FC"
+  link = "#67c4cf"
+  link_hover = "#67c4cf"
