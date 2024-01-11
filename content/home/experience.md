@@ -31,9 +31,9 @@ experience:
     date_end: ''
     description: |2-
                 
-        * xx
+        * Developed spatial-omics analysis solutions for diverse research domains, including immuno-oncology and neurodegeneration, using a combination of multiplexed whole tissue imaging and AI-guided image analysis.
     
-  - title: Graduate Research Assistant
+  - title: Researcher, Center for Physical Genomics
     company: Backman Lab at Northwestern University
     company_url: ''
     location: Evanston, IL
@@ -41,10 +41,7 @@ experience:
     date_end: '2023-06-05'
     description: |2-
                 
-        * Led a project on biophysical cell reprogramming to understand the role of chromatin conformation in stem cell differentiation.
-        * Performed Image Analysis and Data Interpretation using MATLAB and Python.
-        * Mentored teams of undergraduate students as a part of NSF Research Experience and Mentoring Program.
-        * Teaching Assistant for Quantitative Experimentation and Design.
+        * Led a project on biophysical cell reprogramming to understand the role of chromatin conformation in stem cell differentiation. 
         
   - title: Undergraduate Research Assistant
     company: Medical Imaging Research Center at Illinois Institute of Technnology
@@ -55,5 +52,4 @@ experience:
     description: |2-
                 
         * Developed Mathematical Models to improve accuracy in lumpectomy margin assessment protocols.
-        * Teaching Assitant for Image Analysis and Signal Processing on MATLAB.
 ---
