@@ -18,10 +18,11 @@ bio: My research interests include Chromatin Engineering and Cell Reprogramming.
 
 # Interests to show in About widget
 interests:
-- Precision Health
 - Epigenomics
-- DL for Microscopy Image Analysis
+- Precision Health
 - Cell Reprogramming & Rejuvenation
+
+
 
 # Education to show in About widget
 education:
