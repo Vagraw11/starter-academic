@@ -29,7 +29,7 @@ education:
   - course: Ph.D. in Biomedical Engineering
     institution: Northwestern University
     year: 2023
- - course: M.S. in Biomedical Engineering
+ -  course: M.S. in Biomedical Engineering
     institution: Northwestern University
     year: 2020
   - course: B.S. in Biomedical Engineering
