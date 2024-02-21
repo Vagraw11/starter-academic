@@ -67,7 +67,7 @@ email: ""
 highlight_name: false
 ---
 
-I work at the intersection of mutliplexed whole-tissue imaging, AI-driven image analysis and spatial statistics to uncover mechanisms underlying complex biological systems. My doctoral research expertise encompasses high-resolution molecular imaging, functional genomics experiments, and the application of physics-based statistical analysis to elucidate the intricacies of 3D genome architecture.
+I work at the intersection of multiplexed whole-tissue imaging, AI-driven image analysis and spatial statistics to uncover mechanisms underlying complex biological systems. My doctoral research expertise encompasses high-resolution molecular imaging, functional genomics experiments, and the application of physics-based statistical analysis to elucidate the intricacies of 3D genome architecture.
 
 Through this blog I hope to summarize some of the recent developments in the realms of my interests- aging, epigenomics and AI, and their intersection, and more importantly, articulate ideas for future directions from my lens. 
 
