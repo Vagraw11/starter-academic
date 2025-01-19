@@ -39,23 +39,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
-  [[item]]
+[[item]]
   organization = "Doctoral Dissertation"
   organization_url = "https://arch.library.northwestern.edu/concern/generic_works/td96k2984"
   title = "Unraveling Higher-Order Chromatin Architecture and its Role in Cell Engineering for Improved Regenerative Outcomes"
   url = ""
   certificate_url = ""
   date_start = "2023-05-12"
-  date_end = ""
-  description = ""
-  
-[[item]]
-  organization = "The Graduate School at Northwestern University"
-  organization_url = "https://www.tgs.northwestern.edu/about/our-people/spotlight/vasundhara-agrawal.html"
-  title = "TGS Spotlight Interview: Vasundhara Agrawal"
-  url = ""
-  certificate_url = ""
-  date_start = "2022-01-04"
   date_end = ""
   description = ""
   
