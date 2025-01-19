@@ -22,7 +22,7 @@ interests:
 - Precision Health
 - Spatial Biology Applications
 - Cell Reprogramming & Rejuvenation
-- Molecular Imaging and AI-based Analysis
+- Molecular Imaging & AI-based Analysis
 
 
 
