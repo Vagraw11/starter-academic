@@ -26,7 +26,7 @@ experience:
   - title: Applications Manager, Spatial Biology Image Analysis
     company: Leica Microsystems
     company_url: ''
-    location: Waltham, MA
+    location: Boston, MA
     date_start: '2023-07-04'
     date_end: ''
     description: |2-
